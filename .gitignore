@@ -1,3 +1,4 @@
-.zed
+./zed
 .vscode
 .gitattributes
+./ipynb_checkpoints
